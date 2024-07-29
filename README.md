@@ -27,11 +27,11 @@ This project is a web-based Rock Paper Scissor game where users can play against
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Abhilashkale/rock-paper-scissor-game.git
+    git clone https://github.com/Abhilashkale/Rock_paper_Scissors-game.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd rock-paper-scissor-game
+    cd Rock_paper_Scissors-game
     ```
 3. Open the `index.html` file in your web browser to play the game.
 
